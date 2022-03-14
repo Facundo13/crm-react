@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Facundo",
+      "empresa": "Emsa",
+      "email": "festrada@emsalog.com",
+      "telefono": "123456",
+      "notas": "HOla",
+      "id": 1
+    },
+    {
+      "nombre": "Facundo",
+      "empresa": "Emsa",
+      "email": "festrada@emsalog.com",
+      "telefono": "123456",
+      "notas": "HOla",
+      "id": 2
+    },
+    {
+      "nombre": "Facundo",
+      "empresa": "Emsa",
+      "email": "festrada@emsalog.com",
+      "telefono": "123456",
+      "notas": "HOla",
+      "id": 3
+    },
+    {
+      "nombre": "Jorgito",
+      "empresa": "Construcciones",
+      "email": "Facundoestrada8@hotmail.com",
+      "telefono": "56445",
+      "notas": "Notita",
+      "id": 4
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Cocina",
+      "email": "pacciardi@emsalog.com",
+      "telefono": "4546",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
